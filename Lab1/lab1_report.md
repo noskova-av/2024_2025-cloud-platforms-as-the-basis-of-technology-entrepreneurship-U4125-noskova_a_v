@@ -9,7 +9,7 @@
 <b>Date of finished:</b> <br>
 
 <h1>Отчет по лабораторной работе №1 </h1>
-Описание заданий лабораторной работы можно найти по [ссылке](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab1/lab1/#no1-google-cloud).<br>
+Описание заданий лабораторной работы можно найти здесь: https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab1/lab1/
 
 1. Перейдем в раздел `IAM & Admin` на вкладку `Service Accounts`. Создадим сервисный аккаунт.
 ![image](https://github.com/user-attachments/assets/4c98cba8-157d-4faf-add6-b2e9d2c452e3)
