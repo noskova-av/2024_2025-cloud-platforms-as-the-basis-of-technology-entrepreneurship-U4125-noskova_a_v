@@ -6,7 +6,7 @@
 <b>Author:</b> Noskova Alena Vyacheslavovna <br>
 <b>Lab:</b> Lab1 <br>
 <b>Date of create:</b> 21.04.2025 <br>
-<b>Date of finished:</b> <br>
+<b>Date of finished:</b> 22.04.2025<br>
 
 <h1>Отчет по лабораторной работе №1 </h1>
 Описание заданий лабораторной работы можно найти здесь: https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab1/lab1/
